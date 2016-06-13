@@ -1,0 +1,28 @@
+name: scribbaloo
+favicon: null
+layout_spectrum: 0.9680311609990895
+typography_spectrum: 0.5613554385490716
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.23250700859352946
+  lightness: 0.09642427926883101
+  saturation: 0.5217615698929876
+  rhythmicContrast: 0.3418890491593629
+purpose: []
