@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[scribbaloo]]></title>
         <description><![CDATA[scribbaloo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scribbaloo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 09:57:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 13 Jun 2016 10:06:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scribbaloo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2848d9ed-9803-4fd7-83b2-b0b62b30019a.jpg">]]></description>
-            <link>undefinedsimple-ideas-to-inspire-creativity/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb149714-80c2-4a37-9c86-56e50ad84e84.png">]]></description>
+            <link>https://thegrid.ai/scribbaloo/simple-ideas-to-inspire-creativity/index.html</link>
             <guid isPermaLink="false">33e35028-1466-4a55-85e0-75e118f8d914</guid>
-            <pubDate>Mon, 13 Jun 2016 09:56:44 GMT</pubDate>
+            <pubDate>Mon, 13 Jun 2016 10:05:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
