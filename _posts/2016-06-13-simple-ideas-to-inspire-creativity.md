@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-13T10:05:48.967Z'
-dateModified: '2016-06-13T10:05:44.391Z'
+datePublished: '2016-06-13T10:06:55.746Z'
+dateModified: '2016-06-13T10:06:00.820Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-13-simple-ideas-to-inspire-creativity.md
