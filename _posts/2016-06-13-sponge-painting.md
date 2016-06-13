@@ -6,9 +6,9 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'check out these simple ideas for sponge painting https://youtu.be/Sy0rLizazNY'
-datePublished: '2016-06-13T10:26:36.405Z'
-dateModified: '2016-06-13T10:26:22.434Z'
-title: Sponge painting
+datePublished: '2016-06-13T10:28:24.631Z'
+dateModified: '2016-06-13T10:28:07.542Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -19,9 +19,9 @@ starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2122ca71-6ccd-439e-9fbe-0339107e566a.jpg)
+Sponge painting
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3475bd00-4efd-4180-ae01-fccb8f652eee.jpg)
 
-# Sponge painting
+# 
 
 check out these simple ideas for sponge painting https://youtu.be/Sy0rLizazNY
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3896d80-495c-4e82-86bc-6940292062d4.jpg)
