@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-29T21:27:47.202Z'
-dateModified: '2016-06-29T21:27:46.041Z'
+datePublished: '2016-06-29T21:33:08.399Z'
+dateModified: '2016-06-29T21:33:02.322Z'
 title: painting is a type of poetry without words...
 author:
   - name: ''
@@ -15,7 +15,7 @@ author:
 sourcePath: _posts/2016-06-13-sponge-painting.md
 authors: []
 publisher: null
-starred: false
+starred: true
 _type: Blurb
 
 ---
