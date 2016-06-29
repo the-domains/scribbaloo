@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-29T21:37:21.985Z'
-dateModified: '2016-06-29T21:37:02.777Z'
+datePublished: '2016-06-29T21:40:16.202Z'
+dateModified: '2016-06-29T21:40:10.936Z'
 title: painting is a type of poetry without words...
 author:
   - name: ''
