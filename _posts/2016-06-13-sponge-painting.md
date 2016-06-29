@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-29T21:42:24.538Z'
-dateModified: '2016-06-29T21:42:15.478Z'
-title: ' '
+datePublished: '2016-06-29T21:43:05.657Z'
+dateModified: '2016-06-29T21:43:02.246Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -19,7 +19,7 @@ starred: true
 _type: Blurb
 
 ---
-## ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b11e3d4d-9446-4d2b-840b-de8cccfdfc8b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b11e3d4d-9446-4d2b-840b-de8cccfdfc8b.jpg)
 
 simple ideas for sponge painting
 
