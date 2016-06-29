@@ -6,9 +6,9 @@ isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9309896-3b79-43c0-acd8-463da7de1da8.jpg
 inLanguage: null
 keywords: []
-description: 'a little creativity with leaves ...https://youtu.be/4t_MRVjoQaE'
-datePublished: '2016-06-29T21:53:59.597Z'
-dateModified: '2016-06-29T21:53:59.207Z'
+description: 'a little creativity with leaves  https://youtu.be/4t_MRVjoQaE'
+datePublished: '2016-06-29T21:55:09.129Z'
+dateModified: '2016-06-29T21:55:00.207Z'
 title: making paper leaves
 author:
   - name: ''
@@ -22,4 +22,5 @@ _type: MediaObject
 ---
 ![a simple paper leaf project](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9309896-3b79-43c0-acd8-463da7de1da8.jpg)
 
-a little creativity with leaves ...https://youtu.be/4t\_MRVjoQaE
+a little creativity with leaves   
+https://youtu.be/4t\_MRVjoQaE
