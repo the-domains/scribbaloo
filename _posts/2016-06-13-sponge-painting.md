@@ -5,10 +5,10 @@ inNav: false
 isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-29T21:43:05.657Z'
-dateModified: '2016-06-29T21:43:02.246Z'
-title: ''
+description: simple ideas for sponge painting
+datePublished: '2016-06-29T21:45:38.879Z'
+dateModified: '2016-06-29T21:45:38.142Z'
+title: painting is a type of poetry without words...
 author:
   - name: ''
     url: ''
