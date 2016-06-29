@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: a little creativity with leaves...
-datePublished: '2016-06-29T21:30:44.060Z'
-dateModified: '2016-06-29T21:30:29.608Z'
+datePublished: '2016-06-29T21:31:58.494Z'
+dateModified: '2016-06-29T21:31:40.160Z'
 title: making paper leaves
 author:
   - name: ''
@@ -16,7 +16,7 @@ author:
 authors: []
 publisher: null
 sourcePath: _posts/2016-06-26-making-paper-leaves.md
-starred: true
+starred: false
 _type: MediaObject
 
 ---
