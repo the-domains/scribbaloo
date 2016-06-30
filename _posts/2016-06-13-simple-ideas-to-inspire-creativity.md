@@ -1,18 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
-description: >-
+description: ''
+datePublished: '2016-06-30T07:48:55.559Z'
+dateModified: '2016-06-30T07:48:51.986Z'
+title: >-
   paper, tissue, cardboard, clay, foil...but the most important material -
-  imagination
-datePublished: '2016-06-30T08:03:39.262Z'
-dateModified: '2016-06-30T08:03:29.912Z'
-title: the blossoming of creativity
-author:
-  - name: ''
-    url: ''
+  imagination 
+author: []
 sourcePath: _posts/2016-06-13-simple-ideas-to-inspire-creativity.md
 authors: []
 publisher: null
@@ -23,6 +21,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb149714-80c2-4a37-9c86-56e50ad84e84.png)
 
-paper, tissue, cardboard, clay, foil...but the most important material - imagination
-
-https://youtu.be/uiQ8jYkEnWw
+## paper, tissue, cardboard, clay, foil...but the most important material - imagination
