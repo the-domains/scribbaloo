@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: a little creativity with cardboard and paper
-datePublished: '2016-06-30T08:17:09.209Z'
-dateModified: '2016-06-30T08:17:08.773Z'
+datePublished: '2016-06-30T08:18:17.517Z'
+dateModified: '2016-06-30T08:18:17.056Z'
 title: the blossoming of creativity
 author:
   - name: ''
