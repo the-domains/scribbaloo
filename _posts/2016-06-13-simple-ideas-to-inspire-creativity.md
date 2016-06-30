@@ -7,8 +7,8 @@ keywords: []
 description: >-
   paper, tissue, cardboard, clay, foil...but the most important material -
   imagination
-datePublished: '2016-06-30T08:01:08.663Z'
-dateModified: '2016-06-30T08:01:04.387Z'
+datePublished: '2016-06-30T08:03:39.262Z'
+dateModified: '2016-06-30T08:03:29.912Z'
 title: the blossoming of creativity
 author:
   - name: ''
