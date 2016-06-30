@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   paper, tissue, cardboard, clay, foil...but the most important material -
   imagination
-datePublished: '2016-06-30T07:55:48.064Z'
-dateModified: '2016-06-30T07:55:44.660Z'
+datePublished: '2016-06-30T07:58:17.268Z'
+dateModified: '2016-06-30T07:58:14.996Z'
 title: the blossoming of creativity
 author:
   - name: ''
