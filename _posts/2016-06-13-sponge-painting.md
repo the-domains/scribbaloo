@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: simple ideas for sponge painting
-datePublished: '2016-06-29T21:57:17.682Z'
-dateModified: '2016-06-29T21:57:10.612Z'
+datePublished: '2016-06-30T07:56:58.232Z'
+dateModified: '2016-06-30T07:56:49.283Z'
 title: 'painting, a type of poetry without words...'
 author:
   - name: ''
@@ -15,7 +15,7 @@ author:
 sourcePath: _posts/2016-06-13-sponge-painting.md
 authors: []
 publisher: null
-starred: false
+starred: true
 _type: Blurb
 
 ---
