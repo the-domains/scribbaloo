@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: a pond collage with paper foil and felt
-datePublished: '2016-06-30T08:22:09.991Z'
-dateModified: '2016-06-30T08:21:56.119Z'
+datePublished: '2016-07-01T08:14:41.396Z'
+dateModified: '2016-07-01T08:14:29.070Z'
 title: a frog and a pond
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-06-30-a-frog-and-a-pond.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-30-a-frog-and-a-pond.md
 url: a-frog-and-a-pond/index.html
 _type: Article
 
