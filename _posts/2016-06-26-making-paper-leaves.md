@@ -6,9 +6,9 @@ isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9309896-3b79-43c0-acd8-463da7de1da8.jpg
 inLanguage: null
 keywords: []
-description: ' https://youtu.be/4t_MRVjoQaE'
-datePublished: '2016-07-01T08:10:23.161Z'
-dateModified: '2016-07-01T08:10:16.292Z'
+description: 'https://youtu.be/4t_MRVjoQaE'
+datePublished: '2016-07-01T08:15:46.292Z'
+dateModified: '2016-07-01T08:15:30.993Z'
 title: making paper leaves
 author:
   - name: ''
@@ -16,7 +16,7 @@ author:
 sourcePath: _posts/2016-06-26-making-paper-leaves.md
 authors: []
 publisher: null
-starred: true
+starred: false
 _type: MediaObject
 
 ---
