@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://youtu.be/IJxcQngSi1o'
-datePublished: '2016-07-01T08:08:52.337Z'
-dateModified: '2016-07-01T08:08:37.105Z'
+datePublished: '2016-07-01T08:19:04.937Z'
+dateModified: '2016-07-01T08:18:59.128Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-07-01-httpsyoutubeijxcqngsi1o.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-01-httpsyoutubeijxcqngsi1o.md
 url: httpsyoutubeijxcqngsi1o/index.html
 _type: Article
 
