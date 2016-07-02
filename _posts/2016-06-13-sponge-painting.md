@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'sponge painting...a beautiful process, expressive and fun'
-datePublished: '2016-07-02T07:19:25.342Z'
-dateModified: '2016-07-02T07:19:12.452Z'
+datePublished: '2016-07-02T09:32:47.866Z'
+dateModified: '2016-07-02T09:32:42.965Z'
 title: poetry without words...
 author:
   - name: ''
