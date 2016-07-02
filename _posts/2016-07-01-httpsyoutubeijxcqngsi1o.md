@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://youtu.be/IJxcQngSi1o'
-datePublished: '2016-07-01T08:19:04.937Z'
-dateModified: '2016-07-01T08:18:59.128Z'
+datePublished: '2016-07-02T06:51:34.646Z'
+dateModified: '2016-07-02T06:51:29.942Z'
 title: ''
 author:
   - name: ''
@@ -19,6 +19,6 @@ url: httpsyoutubeijxcqngsi1o/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05bd62c0-f154-41bc-b705-57a46a64f74b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65539ade-fe23-4e64-ac0d-2a71f2bfba6e.jpg)
 
 https://youtu.be/IJxcQngSi1o
