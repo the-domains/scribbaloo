@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: a pond collage with paper foil and felt
-datePublished: '2016-07-01T08:14:41.396Z'
-dateModified: '2016-07-01T08:14:29.070Z'
-title: a frog and a pond
+datePublished: '2016-07-02T07:17:27.517Z'
+dateModified: '2016-07-02T07:17:23.783Z'
+title: frog and a pond
 author:
   - name: ''
     url: ''
