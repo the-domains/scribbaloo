@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: 'https://youtu.be/4t_MRVjoQaE'
-datePublished: '2016-07-02T07:06:19.354Z'
-dateModified: '2016-07-02T07:06:15.588Z'
+datePublished: '2016-07-02T09:28:59.394Z'
+dateModified: '2016-07-02T09:28:55.072Z'
 title: the nature of art
 author:
   - name: ''
