@@ -7,9 +7,9 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: 'https://youtu.be/4t_MRVjoQaE'
-datePublished: '2016-07-02T09:28:59.394Z'
-dateModified: '2016-07-02T09:28:55.072Z'
-title: the nature of art
+datePublished: '2016-07-02T09:44:46.905Z'
+dateModified: '2016-07-02T09:44:42.922Z'
+title: the nature of texture
 author:
   - name: ''
     url: ''
