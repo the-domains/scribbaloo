@@ -7,9 +7,9 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: 'https://youtu.be/4t_MRVjoQaE'
-datePublished: '2016-07-01T08:15:46.292Z'
-dateModified: '2016-07-01T08:15:30.993Z'
-title: making paper leaves
+datePublished: '2016-07-02T07:06:19.354Z'
+dateModified: '2016-07-02T07:06:15.588Z'
+title: the nature of art
 author:
   - name: ''
     url: ''
