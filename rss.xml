@@ -4,7 +4,7 @@
         <description><![CDATA[Scribbaloo...simple ideas to inspire creativity]]></description>
         <link>https://thegrid.ai/scribbaloo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 09:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 09:31:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scribbaloo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[blossoming of creativity]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/scribbaloo/simple-ideas-to-inspire-creativity/index.html</link>
             <guid isPermaLink="false">33e35028-1466-4a55-85e0-75e118f8d914</guid>
             <pubDate>Sat, 02 Jul 2016 07:18:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[art felt]]></title>
+            <description><![CDATA[<article><h1>art felt</h1><p>a simple street scene constructed with felt</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7a7697096e0e6b007ff33ff003a2538d031d115.jpg"></article>]]></description>
+            <link>https://thegrid.ai/scribbaloo/8eaae799-0a19-40c3-946d-83a587674c73/index.html</link>
+            <guid isPermaLink="false">8eaae799-0a19-40c3-946d-83a587674c73</guid>
+            <pubDate>Sat, 02 Jul 2016 09:31:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[roar of expression]]></title>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/scribbaloo/a-frog-and-a-pond/index.html</link>
             <guid isPermaLink="false">89196ecb-817f-498f-9872-b2f32fda7cb6</guid>
             <pubDate>Sat, 02 Jul 2016 07:17:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[💙 felt]]></title>
-            <description><![CDATA[<article><h1>💙 felt</h1><p>a simple street scene constructed with felt</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7a7697096e0e6b007ff33ff003a2538d031d115.jpg"></article>]]></description>
-            <link>https://thegrid.ai/scribbaloo/8eaae799-0a19-40c3-946d-83a587674c73/index.html</link>
-            <guid isPermaLink="false">8eaae799-0a19-40c3-946d-83a587674c73</guid>
-            <pubDate>Fri, 01 Jul 2016 08:19:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
