@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://youtu.be/IJxcQngSi1o'
-datePublished: '2016-07-02T06:57:46.769Z'
-dateModified: '2016-07-02T06:57:43.230Z'
-title: the roar of creative expression
+datePublished: '2016-07-02T07:17:02.194Z'
+dateModified: '2016-07-02T07:16:48.565Z'
+title: roar of expression
 author:
   - name: ''
     url: ''
