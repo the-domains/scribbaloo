@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://youtu.be/gqtwYS4kc9o'
-datePublished: '2016-07-05T14:25:36.583Z'
-dateModified: '2016-07-05T14:23:45.925Z'
+datePublished: '2016-07-12T08:01:47.547Z'
+dateModified: '2016-07-12T07:57:59.105Z'
 title: abstract immersion
 author:
   - name: ''
@@ -23,4 +23,4 @@ _type: Article
 
 https://youtu.be/gqtwYS4kc9o
 
-all sorts of shapes and forms can be made from recycled cardboard kitchen roll/tubes. there is something very freeing about using these shapes to create artworks and this simple and readily available material offers endless possibilities. this video can be used at home or in the classroom to kick start some creative ideas on what to make. once cut, the kitchen roll shapes can be attached together using staples, glue or tape.
+All sorts of beautiful shapes and forms can be made from very simple materials. This video uses recycled cardboard kitchen roll/tubes. There is something very freeing about using these shapes to create artworks and this simple and readily available material offers endless possibilities. This video can be used at home or in the classroom to kick start some creative ideas on what to make. Once cut, the kitchen roll shapes can be attached together using staples, glue or tape.
