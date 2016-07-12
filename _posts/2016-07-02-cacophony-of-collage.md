@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://youtu.be/yTrYCRHFR9I'
-datePublished: '2016-07-05T14:25:29.075Z'
-dateModified: '2016-07-05T14:25:19.150Z'
+datePublished: '2016-07-12T08:01:55.352Z'
+dateModified: '2016-07-12T07:59:12.201Z'
 title: cacophony of collage
 author:
   - name: ''
@@ -23,4 +23,4 @@ _type: Article
 
 https://youtu.be/yTrYCRHFR9I
 
-dried autumn leaves make for the most beautiful of art materials.
+Dried autumn leaves make for the most beautiful of art materials. When working with organic shapes like these, forms often just emerge as you play with the material - whether abstract or more representational.
