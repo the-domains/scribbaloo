@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://youtu.be/eUc6C-6v4TA'
-datePublished: '2016-07-02T09:28:29.732Z'
-dateModified: '2016-07-02T09:28:25.937Z'
+datePublished: '2016-07-12T08:02:16.271Z'
+dateModified: '2016-07-12T08:02:11.459Z'
 title: art in the cloud
 author:
   - name: ''
