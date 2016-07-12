@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: a little creativity with cardboard and paper
-datePublished: '2016-07-02T07:18:53.443Z'
-dateModified: '2016-07-02T07:18:47.038Z'
+description: 'https://youtu.be/uiQ8jYkEnWw'
+datePublished: '2016-07-12T08:02:45.342Z'
+dateModified: '2016-07-12T08:00:44.803Z'
 title: blossoming of creativity
 author:
   - name: ''
@@ -20,7 +20,5 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb149714-80c2-4a37-9c86-56e50ad84e84.png)
-
-a little creativity with cardboard and paper
 
 https://youtu.be/uiQ8jYkEnWw
