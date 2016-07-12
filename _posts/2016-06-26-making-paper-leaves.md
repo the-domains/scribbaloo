@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: 'https://youtu.be/4t_MRVjoQaE'
-datePublished: '2016-07-02T09:44:46.905Z'
-dateModified: '2016-07-02T09:44:42.922Z'
+datePublished: '2016-07-12T08:02:33.525Z'
+dateModified: '2016-07-12T08:02:33.101Z'
 title: the nature of texture
 author:
   - name: ''
